@@ -2,7 +2,7 @@
  
 <img src="Images/Diagram.jpg">
 
-**1**
+<div style = "display: flex-box;"> <div style = "justify-content: center;"> **1** </div></div>
 
 <img src="Images/1.jpg">
 
